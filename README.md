@@ -1,6 +1,6 @@
 <h1 align="center">Tokenizer</h1>
 
-Projet post tronc-commun de [42](https://42.fr/), dont le but est la création d'un smart contract de type ERC-20 nommé ShibaWoof (SW42) sur la blockchain Ethereum.
+Projet post tronc-commun de [42](https://42.fr/), dont le but est la création d'un smart contract de type ERC-20 sur la blockchain Ethereum.
 
 Ce projet couvre les aspects suivants :
 
