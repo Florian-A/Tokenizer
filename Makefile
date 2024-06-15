@@ -9,7 +9,11 @@ build:
 deploy: deploy-force
 
 deploy-force:
-	@MNEMONIC="$(MNEMONIC)" npx hardhat run deploy/*.js --network sepolia;
+	@for file in deploy/*.js; do \
+		echo "Deploying $$file..."; \
+		MNEMONIC="$(MNEMONIC)" npx hardhat run $$file --network sepolia --show-stack-traces; \
+	done
+
 
 test: test-force
 

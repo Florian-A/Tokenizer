@@ -8,7 +8,7 @@ ShibaWoof (SW42) est un token ERC-20 développé pour fonctionner sur la machine
 
 Le smart contract ShibaWoof respecte la norme ERC-20, fournissant des fonctions essentielles nécessaires à son utilisation en tant que cryptomonnaie standard sur la blockchain Ethereum. Voici les principales fonctionnalités et méthodes du contrat :
 
-### Fonctions principales
+### Fonctions
 
 - **`name()`**: Retourne le nom du token (`"ShibaWoof42"`).
 - **`symbol()`**: Retourne le symbole du token (`"SW42"`).

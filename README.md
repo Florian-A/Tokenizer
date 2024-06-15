@@ -39,13 +39,17 @@ security add-generic-password -a "Mnemonic" -s "Hardhat" -w "votre mnémonique"
 
 ### Documentation :
 
-Consultez le fichier [`ShibaWoof.md`](./documentation/ShibaWoof.md) du dossier `documentation` pour plus d'informations sur le fonctionnement du smart contract ShibaWoof.
+Consultez le fichier [`ShibaWoof.md`](./documentation/ShibaWoof.md) du dossier `documentation` pour plus d'informations sur le fonctionnement du token ERC-20 ShibaWoof et [`SmartWallet.md`](./documentation/SmartWallet.md) pour le fonctionnement du smart contract `SmartWallet`.
 
 ### Démonstration :
 
 Le token `ShibaWoof42` a été déployé sur le réseau de test Sepolia à l'adresse suivante :
 
 https://sepolia.etherscan.io/address/0x88b5d36f929941f27d7e68f56dc8ed34f36b1e96
+
+Et le smartcontract `SmartWallet` :
+
+https://sepolia.etherscan.io/address/0x97b91c84911529727FeA2D4e2FcC76695034E1DE
 
 ### Correction :
 
