@@ -4,7 +4,8 @@ Projet post tronc-commun de [42](https://42.fr/), dont le but est la création d
 
 Ce projet couvre les aspects suivants :
 
-- Développement du smart contract en Solidity.
+- Développement d'un token.
+- Déploiement d'un smartcontract sur une blockchain public.
 
 ---
 
