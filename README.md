@@ -32,7 +32,7 @@ security add-generic-password -a "Mnemonic" -s "Hardhat" -w "votre mnémonique"
 ### Commandes disponibles :
 
 - `make install` : Installe les dépendances.
-- `make compile` : Compile le smart contract.
+- `make build` : Compile le smart contract.
 - `make test` : Lance les tests du smart contract.
 - `make deploy` : Déploie et vérifie le smart contract.
 
