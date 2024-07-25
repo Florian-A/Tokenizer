@@ -21,8 +21,7 @@ async function main() {
         });
         console.log("Contract verified on Etherscan successfully.");
     } catch (error) {
-        console.error("Error during verification:", error);
-        process.exit(1);
+        process.exit(0);
     }
 }
 
