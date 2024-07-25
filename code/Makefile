@@ -1,4 +1,4 @@
-MNEMONIC := $(shell grep -oP 'MNEMONIC="\K[^"]+' .env)
+MNEMONIC := $(shell grep -oP 'MNEMONIC="\K[^"]+' .env 2>/dev/null || echo "")
 
 ifeq ($(MNEMONIC),)
 MNEMONIC := $(shell security find-generic-password -ga Mnemonic -s Hardhat -w)

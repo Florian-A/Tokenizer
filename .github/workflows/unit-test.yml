@@ -10,8 +10,15 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - run: cd ./code/
+
     - run: echo MNEMONIC="" > .env
+      working-directory: ./code
+
     - run: make install
+      working-directory: ./code
+
     - run: make build
+      working-directory: ./code
+      
     - run: make test
+      working-directory: ./code
