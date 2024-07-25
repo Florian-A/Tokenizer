@@ -1,4 +1,8 @@
+MNEMONIC := $(shell grep -oP 'MNEMONIC="\K[^"]+' .env)
+
+ifeq ($(MNEMONIC),)
 MNEMONIC := $(shell security find-generic-password -ga Mnemonic -s Hardhat -w)
+endif
 
 install:
 	@npm install

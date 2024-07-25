@@ -35,7 +35,8 @@ module.exports = {
         urls: {
           apiURL: "https://api-sepolia.etherscan.io/api",
           browserURL: "https://sepolia.etherscan.io/",
-        }
+        },
+        verify: true,
       }
     ]
   },
