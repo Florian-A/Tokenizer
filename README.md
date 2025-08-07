@@ -56,7 +56,7 @@ https://sepolia.etherscan.io/address/0x97b91c84911529727FeA2D4e2FcC76695034E1DE
 
 | |
 | --- |
-| <img src="./img/note.png" style="zoom: 80%;" /> |
+| <img src="./img/note.png" style="zoom: 40%;" /> |
 
 | | |
 | --- | --- |
