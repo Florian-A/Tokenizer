@@ -56,10 +56,10 @@ https://sepolia.etherscan.io/address/0x97b91c84911529727FeA2D4e2FcC76695034E1DE
 
 | |
 | --- |
-| <img src="./img/note.png" style="zoom: 40%;" /> |
+| <img src="./img/note.png" style="zoom: 30%;" /> |
 
 | | |
 | --- | --- |
-| Correcteur 1 | <img src="./img/correction1.png" style="zoom: 120%;" /> |
-| Correcteur 2 | <img src="./img/correction2.png" style="zoom: 120%;" /> |
-| Correcteur 3 | <img src="./img/correction3.png" style="zoom: 120%;" /> |
+| Correcteur 1 | <img src="./img/correction1.png" style="zoom: 150%;" /> |
+| Correcteur 2 | <img src="./img/correction2.png" style="zoom: 150%;" /> |
+| Correcteur 3 | <img src="./img/correction3.png" style="zoom: 150%;" /> |
